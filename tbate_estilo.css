@@ -1,0 +1,23 @@
+body{
+    color: rgb(236, 236, 236);
+    background-color:#464646;
+     margin-left: 50px;
+    margin-right: 50px;
+    
+}
+h1, h2, h3{
+    color: yellow;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+   
+}
+
+p{
+    font-family: 'Noto Sans', sans-serif; 
+   margin: 10px 50px 10px 50px;
+   font-size: 18px;
+}
+
+img {
+    margin-top: 7px;
+    border: solid 4px black;
+}
